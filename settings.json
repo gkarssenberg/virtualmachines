@@ -16,7 +16,7 @@ var settings = {
 "region_name" : "us-east-1",
 "EC2Type"     : "t3",
 "EC2Size"     : "large",
-"SubnetId"    : [ "subnet-0cea773b7c4d20a1f", "subnet-0c6ea1035fa36ecb4", "subnet-020753b43fc20f53b"  ],
+"SubnetId"    : [ "subnet-1a13085c", "subnet-7f0c3757", "subnet-5da75e2a"  ],
 "Team"        : "Train",
 "Owner"       : "RCragg",
 "CourseType"  : "training",
